@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/pengxu1988/marathon-help-react/issues"
   },
-  "homepage": "https://github.com/pengxu1988/marathon-help-react#readme"
+  "homepage": "https://github.com/pengxu1988/marathon-help-react#readme",
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  }
 }
